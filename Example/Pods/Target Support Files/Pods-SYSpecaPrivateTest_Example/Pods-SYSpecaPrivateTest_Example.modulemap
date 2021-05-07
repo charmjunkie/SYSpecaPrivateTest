@@ -1,0 +1,6 @@
+framework module Pods_SYSpecaPrivateTest_Example {
+  umbrella header "Pods-SYSpecaPrivateTest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

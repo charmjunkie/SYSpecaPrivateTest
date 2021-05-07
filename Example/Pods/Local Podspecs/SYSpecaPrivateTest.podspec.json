@@ -1,0 +1,22 @@
+{
+  "name": "SYSpecaPrivateTest",
+  "version": "0.1.0",
+  "summary": "A short description of SYSpecaPrivateTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/charmjunkie/SYSpecaPrivateTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "charmjunkie": "cxhsy8888@126.com"
+  },
+  "source": {
+    "git": "https://github.com/charmjunkie/SYSpecaPrivateTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SYSpecaPrivateTest/Classes/**/*"
+}

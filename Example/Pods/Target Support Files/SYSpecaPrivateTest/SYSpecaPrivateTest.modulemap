@@ -1,0 +1,6 @@
+framework module SYSpecaPrivateTest {
+  umbrella header "SYSpecaPrivateTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
